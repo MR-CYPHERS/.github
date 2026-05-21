@@ -96,7 +96,7 @@ graph TD
 
 We are always looking for exciting projects and partnerships. Whether you need a premium web portal, a high-converting mobile app, or scaling infrastructure, MR. CYPHERS is ready to build it.
 
-* **GitHub:** [github.com/mr-cyphers](https://github.com) *(Update with your actual link)*
+* **GitHub:** (https://github.com/MR-CYPHERS) *(Update with your actual link)*
 * **Email:** [contact@mrcyphers.dev](mailto:contact@mrcyphers.dev)
 * **Website:** [mrcyphers.dev](https://mrcyphers.dev)
 
