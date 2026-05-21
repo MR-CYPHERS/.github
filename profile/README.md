@@ -98,7 +98,7 @@ We are always looking for exciting projects and partnerships. Whether you need a
 
 * **GitHub:** (https://github.com/MR-CYPHERS) *(Update with your actual link)*
 * **Email:** [contact@mrcyphers.dev](mailto:contact@mrcyphers.dev)
-* **Website:** [mrcyphers.dev](https://mr-cyphers-portal.vercel.app)
+* **Website:** click here to visit (https://mr-cyphers-portal.vercel.app)
 
 ---
 
